@@ -16,7 +16,7 @@ a {
 .personal-info-container {
     margin:0;
     width:300px;
-    height:690px;
+    height:100vh;
     border-right: 1px solid lightsteelblue;
     background-color: white;
 }
@@ -37,4 +37,10 @@ a {
     font-weight: bold;
     font-family: Arial, Helvetica, sans-serif;
     margin: 0;
+}
+.education {
+    float:left;
+}
+.education-title {
+    font-size:18px;
 }
